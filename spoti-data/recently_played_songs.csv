@@ -1,0 +1,51 @@
+played_at,song_name,artist,popularity,belong_to_album
+2023-07-16 15:03,Kings & Queens,['Ava Max-spotify:artist:4npEfmQ6YuiwW1GpUmaq3F'],84,Yes
+2023-07-16 15:01,GIRL LIKE ME,"['Black Eyed Peas-spotify:artist:1yxSLGMDHlW21z4YXirZDS', 'Shakira-spotify:artist:0EmeFodog0BfCgMzAIvKQp']",76,Yes
+2023-07-16 14:57,Alone (with Nicki Minaj),"['Kim Petras-spotify:artist:3Xt3RrJMFv5SZkCfUE8C1J', 'Nicki Minaj-spotify:artist:0hCNtLu0JehylgoiP8L4Gh']",80,No
+2023-07-16 14:54,Praise The Lord (Da Shine) (feat. Skepta),"['A$AP Rocky-spotify:artist:13ubrt8QOOCPljQ2FL1Kca', 'Skepta-spotify:artist:2p1fiYHYiXz9qi0JJyxBzN']",86,Yes
+2023-07-16 14:51,Prada,"['G4 Boyz-spotify:artist:4ZtqSJYEh407LR6NM5hNcS', 'G4choppa-spotify:artist:27NMpKmQTbEGZ4R6kFrHoy']",37,No
+2023-07-16 14:48,Heavy (with Lil Uzi Vert),"['Nigo-spotify:artist:2rAnv6brcXaglLZBB4XXEn', 'Lil Uzi Vert-spotify:artist:4O15NlyKLIASxsJ0PrXPfz']",57,No
+2023-07-16 14:45,"F*CK YOU, GOODBYE (feat. Machine Gun Kelly)","['The Kid LAROI-spotify:artist:2tIP7SsRs7vjIcLrU85W8J', 'Machine Gun Kelly-spotify:artist:6TIYQ3jFPwQSRmorSezPxX']",75,Yes
+2023-07-16 14:42,My Feelings,"['Serhat Durmus-spotify:artist:1R2iRWvuwwokMKGHirNGTD', 'Georgia Ku-spotify:artist:5mYakBbBzPMQTfkVMIgiDM']",51,No
+2023-07-16 14:38,Not So Bad (Leans Gone Cold),['Rae Sremmurd-spotify:artist:7iZtZyCzp3LItcw1wtPI3D'],77,Yes
+2023-07-16 11:17,Streets,['Doja Cat-spotify:artist:5cj0lLjcoR7YOSnhnX0Po5'],85,Yes
+2023-07-16 10:44,Not So Bad (Leans Gone Cold),['Rae Sremmurd-spotify:artist:7iZtZyCzp3LItcw1wtPI3D'],77,Yes
+2023-07-16 10:39,Lovin' Me,['FIFTY FIFTY-spotify:artist:4GJ6xDCF5jaUqD6avOuQT6'],73,No
+2023-07-16 10:36,On God,['Kanye West-spotify:artist:5K4W6rqBFWDnAN6FQUkS6x'],63,Yes
+2023-07-16 10:33,My Heart Hurts,['Dax-spotify:artist:5icKdCmMhNMYoAzVBAWt39'],51,Yes
+2023-07-16 10:30,"GOD DID (feat. Rick Ross, Lil Wayne, Jay-Z, John Legend & Fridayy)","['DJ Khaled-spotify:artist:0QHgL1lAIqAw0HtD7YldmP', 'Rick Ross-spotify:artist:1sBkRIssrMs1AbVkOJbc7a', 'Lil Wayne-spotify:artist:55Aa2cqylxrFIXC767Z865', 'JAY-Z-spotify:artist:3nFkdlSjzX9mRTtwJOzDYB', 'John Legend-spotify:artist:5y2Xq6xcjJb2jVM54GHK3t', 'Fridayy-spotify:artist:7sP4SQ0WY6jfps1I19Ot7i']",67,Yes
+2023-07-16 10:21,Battles with Faith,['Dax-spotify:artist:5icKdCmMhNMYoAzVBAWt39'],44,Yes
+2023-07-16 10:17,I Can't Breathe,['Dax-spotify:artist:5icKdCmMhNMYoAzVBAWt39'],49,Yes
+2023-07-16 08:12,I Can't Breathe,['Dax-spotify:artist:5icKdCmMhNMYoAzVBAWt39'],49,Yes
+2023-07-16 08:09,JOKER,['Dax-spotify:artist:5icKdCmMhNMYoAzVBAWt39'],61,No
+2023-07-16 08:05,The Devil's Calling,['Dax-spotify:artist:5icKdCmMhNMYoAzVBAWt39'],62,Yes
+2023-07-16 08:02,Book Of Revelations,['Dax-spotify:artist:5icKdCmMhNMYoAzVBAWt39'],49,Yes
+2023-07-16 07:59,Dear God,['Dax-spotify:artist:5icKdCmMhNMYoAzVBAWt39'],60,Yes
+2023-07-16 07:54,I Need A Break,['Dax-spotify:artist:5icKdCmMhNMYoAzVBAWt39'],44,Yes
+2023-07-16 07:52,Eternity,['Dax-spotify:artist:5icKdCmMhNMYoAzVBAWt39'],52,Yes
+2023-07-16 07:48,Everything We Need,"['Kanye West-spotify:artist:5K4W6rqBFWDnAN6FQUkS6x', 'Ty Dolla $ign-spotify:artist:7c0XG5cIJTrrAgEC3ULPiq', 'Ant Clemons-spotify:artist:028lPW2NdWHdSPCkRkcyhd']",61,Yes
+2023-07-16 07:46,Child of God,['Dax-spotify:artist:5icKdCmMhNMYoAzVBAWt39'],50,No
+2023-07-15 22:59,Terminator,['Asake-spotify:artist:3a1tBryiczPAZpgoZN9Rzg'],70,Yes
+2023-07-15 22:58,F.F.,['Lil Uzi Vert-spotify:artist:4O15NlyKLIASxsJ0PrXPfz'],57,No
+2023-07-15 22:55,Lie,['NF-spotify:artist:6fOMl44jA4Sp5b9PpYCkzz'],78,Yes
+2023-07-15 22:52,Ngana Rindu? (Adit Sparky Version),"['DJ Lucu-spotify:artist:5KR0LKc7nW7pGTY8p49LXZ', 'Adit Sparky-spotify:artist:2bEMXU6rJTKBU8iVWnxYiO']",40,No
+2023-07-15 22:48,Stuck In A Dream (feat. Gunna),"['Lil Mosey-spotify:artist:5zctI4wO9XSKS8XwcnqEHk', 'Gunna-spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ']",74,Yes
+2023-07-15 22:46,Wasted (feat. Lil Uzi Vert),"['Juice WRLD-spotify:artist:4MCBfE4596Uoi2O4DtmEMz', 'Lil Uzi Vert-spotify:artist:4O15NlyKLIASxsJ0PrXPfz']",79,Yes
+2023-07-15 22:42,in heat.,['Hentai Xander-spotify:artist:7J67YP5oiObsKJkC7mrRWW'],63,No
+2023-07-15 22:40,Hot (feat. Gunna),"['Young Thug-spotify:artist:50co4Is1HCEo8bhOyUWKpn', 'Gunna-spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ']",74,Yes
+2023-07-15 22:37,Higher (feat. iann dior),"['Clean Bandit-spotify:artist:6MDME20pz9RveH9rEXvrOM', 'iann dior-spotify:artist:6ASri4ePR7RlsvIQgWPJpS']",61,No
+2023-07-15 22:34,What You Need,['Don Toliver-spotify:artist:4Gso3d4CscCijv0lmajZWs'],63,Yes
+2023-07-15 22:30,At Me,['KEVZOR-spotify:artist:6E3uQqu3tML9MKdzxrIE7I'],44,No
+2023-07-15 22:28,emo girl (feat. WILLOW),"['Machine Gun Kelly-spotify:artist:6TIYQ3jFPwQSRmorSezPxX', 'WILLOW-spotify:artist:3rWZHrfrsPBxVy692yAIxF']",70,Yes
+2023-07-15 22:25,Leave The Door Open,"['Bruno Mars-spotify:artist:0du5cEVh5yTK9QJze8zA0C', 'Anderson .Paak-spotify:artist:3jK9MiCrA42lLAdMGUZpwa', 'Silk Sonic-spotify:artist:6PvvGcCY2XtUcSRld1Wilr']",85,Yes
+2023-07-15 22:21,Paris to Tokyo,"['Fivio Foreign-spotify:artist:14CHVeJGrR5xgUGQFV5BVM', 'The Kid LAROI-spotify:artist:2tIP7SsRs7vjIcLrU85W8J']",63,No
+2023-07-15 22:19,Never Is Enough,['iann dior-spotify:artist:6ASri4ePR7RlsvIQgWPJpS'],59,Yes
+2023-07-15 22:16,"Alone, Pt. II","['Alan Walker-spotify:artist:7vk5e3vY1uw9plTHJAMwjN', 'Ava Max-spotify:artist:4npEfmQ6YuiwW1GpUmaq3F']",77,Yes
+2023-07-15 22:13,hot girl bummer,['blackbear-spotify:artist:2cFrymmkijnjDg9SS92EPM'],81,Yes
+2023-07-15 22:10,Pain Talk (feat. Lil Tjay),"['Sleepy Hallow-spotify:artist:6EPlBSH2RSiettczlz7ihV', 'Lil Tjay-spotify:artist:6jGMq4yGs7aQzuGsMgVgZR']",75,No
+2023-07-15 22:08,Meet the Woo,['Pop Smoke-spotify:artist:0eDvMgVFoNV3TpwtrVCoTj'],65,Yes
+2023-07-15 22:06,GO (feat. Juice WRLD),"['The Kid LAROI-spotify:artist:2tIP7SsRs7vjIcLrU85W8J', 'Juice WRLD-spotify:artist:4MCBfE4596Uoi2O4DtmEMz']",75,Yes
+2023-07-15 22:03,imu (ft. Travis Barker),"['blackbear-spotify:artist:2cFrymmkijnjDg9SS92EPM', 'Travis Barker-spotify:artist:4exLIFE8sISLr28sqG1qNX']",47,No
+2023-07-15 21:59,Myron,['Lil Uzi Vert-spotify:artist:4O15NlyKLIASxsJ0PrXPfz'],74,Yes
+2023-07-15 21:55,Lo Mein,['Lil Uzi Vert-spotify:artist:4O15NlyKLIASxsJ0PrXPfz'],68,Yes
+2023-07-15 21:52,Show Out (with Skepta & Pop Smoke),"['Kid Cudi-spotify:artist:0fA0VVWsXO9YnASrzqfmYu', 'Skepta-spotify:artist:2p1fiYHYiXz9qi0JJyxBzN', 'Pop Smoke-spotify:artist:0eDvMgVFoNV3TpwtrVCoTj']",71,Yes
